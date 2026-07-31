@@ -4,7 +4,7 @@
 >
 > 作者：liunix
 >
-> 基于真实项目（AgentBase、MindFlow、QuantFlow、UniAgents、OPCOS、QuantStack）的实战总结
+> 基于真实项目（Agent Admin、MindFlow、QuantFlow、UniAgents、OPCOS、QuantStack）的实战总结
 
 ---
 
@@ -37,13 +37,12 @@
 - [第16章：量化交易 Agent 平台（QuantFlow）](./16-chapter16-quantflow.md)
 - [第17章：多模态 Agent 框架（UniAgents）](./17-chapter17-uniagents.md)
 - [第18章：商业 Agent 平台（OPCOS）](./18-chapter18-opcos.md)
-- [第19章：企业级 Admin 框架（AgentBase）](./19-chapter19-agentbase.md)
 
 ### 第六部分：附录
 - [附录A：常见问题与解决方案](./appendix-a-faq.md)
-- [附录D：Hermes Agent 介绍](./appendix-d-hermes-agent.md)
 - [附录B：完整代码示例](./appendix-b-code-examples.md)
 - [附录C：术语表与参考资源](./appendix-c-terminology.md)
+- [附录E：Hermes Agent 介绍](./appendix-e-hermes-agent.md)
 
 ---
 
@@ -70,7 +69,7 @@
 
 ### 1. 实战导向
 每个概念都对应真实项目代码和实战案例：
-- AgentBase: 企业级Admin框架
+- Agent Admin: 企业级Admin框架
 - MindFlow: 写作Agent平台（10 Agent、14 Core模块）
 - QuantFlow: 量化交易Agent平台（策略→风控→交易）
 - UniAgents: 多模态Agent框架（215测试）
@@ -99,7 +98,7 @@
 - **写作**: MindFlow写作Agent平台
 - **量化交易**: QuantFlow量化交易Agent平台
 - **商业系统**: OPCOS商业Agent平台
-- **企业管理**: AgentBase企业级Admin框架
+- **企业管理**: Agent Admin企业级Admin框架
 
 ---
 
@@ -160,13 +159,13 @@
 ### 第四阶段：Multi-Agent + Enterprise（2025-现在）
 - **核心**: 多智能体协作、企业级架构、领域适配
 - **技术**: 协议栈（A2A/MCP/ARD/OKF/ACP）、分层架构、领域模型
-- **代表项目**: UniAgents、OPCOS、MindFlow、AgentBase
+- **代表项目**: UniAgents、OPCOS、MindFlow、Agent Admin
 - **核心价值**: 可扩展、可维护、可领域适配的企业级 Agent 平台
 
 ### 第五阶段：Agent-Led Development（现在-未来）
 - **核心**: Agent 主导的开发流程、Agent 辅助的架构设计、Agent 自动化的代码生成
 - **技术**: Agent 驱动的开发工具链、Agent 协作编写代码、Agent 验证与测试
-- **代表项目**: 本开源书籍、AgentBase、QuantStack
+- **代表项目**: 本开源书籍、Agent Admin、QuantStack
 - **核心价值**: 真正实现"Agent 编写 Agent"，从开发者的角色转变为 Agent 的指挥者
 
 ---

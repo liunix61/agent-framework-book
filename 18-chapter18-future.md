@@ -186,7 +186,7 @@
 **1. 框架生态**
 
 - **Python Agent 框架**: LangChain、AutoGPT、BabyAGI
-- **C++ Agent 框架**: AgentBase、OPCOS、NanoAPI
+- **C++ Agent 框架**: Agent Admin、OPCOS、NanoAPI
 - **JavaScript Agent 框架**: LangChain.js、AgentKit
 
 **2. 工具生态**

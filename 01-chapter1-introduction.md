@@ -82,7 +82,7 @@ ChatGPT 的出现标志着 **Agent** 的诞生。Agent 是能够自主感知、�
 
 ### 1.2.3 代码助手
 
-**示例**: AgentBase 代码管理平台
+**示例**: Agent Admin 代码管理平台
 
 **功能**:
 - 代码审查
@@ -261,7 +261,7 @@ ChatGPT 的出现标志着 **Agent** 的诞生。Agent 是能够自主感知、�
 - 16个插件、协议栈（A2A/MCP/OKF/ACP）
 - 118个测试
 
-**AgentBase** (2周)
+**Agent Admin** (2周)
 - 企业级Admin框架
 - 六层架构、FastAPI + Vue3/Nuxt4
 - 36+ API、31个测试
@@ -290,7 +290,7 @@ ChatGPT 的出现标志着 **Agent** 的诞生。Agent 是能够自主感知、�
    - QuantFlow 量化交易Agent平台
    - UniAgents 多模态Agent框架
    - OPCOS 商业Agent平台
-   - AgentBase 企业级Admin框架
+   - Agent Admin 企业级Admin框架
    - QuantStack 极低延迟交易系统
 
 4. **企业级 Agent 平台开发能力**
