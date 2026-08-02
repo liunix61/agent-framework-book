@@ -1,7 +1,6 @@
-# 《基于 Agent 框架的软件系统开发与项目实战》
+|# 《基于 Agent 框架的软件系统开发与项目实战》
 
-> **开源书籍** | **实战导向** | **系统化**
->
+> **开源书籍** | **实战导向** | **系统化**>
 > 作者：liunix
 >
 > 基于真实项目（Agent Admin、MindFlow、QuantFlow、UniAgents、OPCOS、QuantStack）的实战总结
@@ -28,15 +27,15 @@
 - [第11章：协议栈设计](./11-chapter11-protocols.md)
 
 ### 第四部分：高级篇
-- [第12章：企业级 Agent 平台架构](./12-chapter12-enterprise-architecture.md)
-- [第13章：Agent 安全与性能优化](./13-chapter13-security-performance.md)
-- [第14章：Agent 监控、日志与可观测性](./14-chapter14-observability.md)
+- [第12章：企业级 Agent 平台架构](./12-chapter12-deployment.md)
+- [第13章：Agent 安全与性能优化](./13-chapter13-security.md)
+- [第14章：Agent 监控、日志与可观测性](./14-chapter14-testing.md)
 
 ### 第五部分：实战篇
-- [第15章：写作 Agent 平台（MindFlow）](./15-chapter15-mindflow.md)
-- [第16章：量化交易 Agent 平台（QuantFlow）](./16-chapter16-quantflow.md)
-- [第17章：多模态 Agent 框架（UniAgents）](./17-chapter17-uniagents.md)
-- [第18章：商业 Agent 平台（OPCOS）](./18-chapter18-opcos.md)
+- [第15章：写作 Agent 平台（MindFlow）](./15-chapter15-performance.md)
+- [第16章：量化交易 Agent 平台（QuantFlow）](./16-chapter16-applications.md)
+- [第17章：多模态 Agent 框架（UniAgents）](./17-chapter17-best-practices.md)
+- [第18章：商业 Agent 平台（OPCOS）](./18-chapter18-future.md)
 
 ### 第六部分：附录
 - [附录A：常见问题与解决方案](./appendix-a-faq.md)
@@ -248,5 +247,4 @@ MIT License - 详见 LICENSE 文件
 ---
 
 **让我们一起构建 Agent 开发的开源生态！**
-
 > 本书基于作者在 AI/LLM/Agent、量化交易、前后端、嵌入式、区块链/Web3 等领域的多年实战经验，系统性地讲解如何从零开始构建企业级 Agent 框架。
