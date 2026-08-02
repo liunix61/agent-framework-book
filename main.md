@@ -32,16 +32,31 @@
 - [第14章：Agent 监控、日志与可观测性](./14-chapter14-testing.md)
 
 ### 第五部分：实战篇
-- [第15章：写作 Agent 平台（MindFlow）](./15-chapter15-performance.md)
-- [第16章：量化交易 Agent 平台（QuantFlow）](./16-chapter16-applications.md)
-- [第17章：多模态 Agent 框架（UniAgents）](./17-chapter17-best-practices.md)
-- [第18章：商业 Agent 平台（OPCOS）](./18-chapter18-future.md)
+- [第15章：Agent 性能优化](./15-chapter15-performance.md)
+- [第16章：Agent 开发实战](./16-chapter16-applications.md)
+- [第17章：Agent 最佳实践](./17-chapter17-best-practices.md)
+- [第18章：Agent 未来展望](./18-chapter18-future.md)
+- [第19章：总结与展望](./19-chapter19-summary.md)
+- [第20章：Agent 开发实战](./20-chapter20-practice.md)
+- [第21章：Agent 性能优化实战](./21-chapter21-performance-practice.md)
+- [第22章：Agent 安全实战](./22-chapter22-security-practice.md)
+- [第23章：Agent 测试实战](./23-chapter23-testing-practice.md)
+- [第24章：Agent 部署实战](./24-chapter24-deployment-practice.md)
+- [第25章：Agent 协议栈实现](./25-chapter25-applications.md)
+- [第26章：Agent 协议栈实现](./26-chapter26-protocols.md)
+- [第27章：Agent 记忆系统实现](./27-chapter27-knowledge-graph.md)
+- [第28章：Agent 知识图谱实现](./28-chapter28-knowledge-graph.md)
+- [第29章：Agent 知识推理](./29-chapter29-reasoning.md)
+- [第30章：Agent 系统评估](./30-chapter30-evaluation.md)
+- [第31章：Agent 系统优化](./31-chapter31-optimization.md)
+- [第32章：Agent 系统部署实战](./32-chapter32-deployment.md)
 
 ### 第六部分：附录
 - [附录A：常见问题与解决方案](./appendix-a-faq.md)
 - [附录B：完整代码示例](./appendix-b-code-examples.md)
 - [附录C：术语表与参考资源](./appendix-c-terminology.md)
 - [附录D：全球前十开源Agent框架](./appendix-d-open-source-frameworks.md)
+- [附录E：Hermes Agent 介绍](./appendix-e-hermes-agent.md)
 
 ---
 
@@ -185,7 +200,7 @@
 
 ### 路径3：深入研究（16-24周）
 ```
-第2-3章 → 第4-7章 → 第8-14章 → 第15-19章 → 综合项目
+第2-3章 → 第4-7章 → 第8-14章 → 第15-32章 → 综合项目
 ```
 **目标**: 独立开发企业级 Agent 平台
 
@@ -209,10 +224,9 @@
 
 ### 如何贡献
 1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature"`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'"`)
+4. 推送到分支 (`git push origin feature/AmazingFeature"`)
 
 ### 贡献类型
 - **代码贡献**: 提交新的示例代码
