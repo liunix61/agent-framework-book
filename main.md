@@ -41,7 +41,7 @@
 - [附录A：常见问题与解决方案](./appendix-a-faq.md)
 - [附录B：完整代码示例](./appendix-b-code-examples.md)
 - [附录C：术语表与参考资源](./appendix-c-terminology.md)
-- [附录E：Hermes Agent 介绍](./appendix-e-hermes-agent.md)
+- [附录D：全球前十开源Agent框架](./appendix-d-open-source-frameworks.md)
 
 ---
 
